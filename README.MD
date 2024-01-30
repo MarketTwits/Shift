@@ -1,3 +1,9 @@
+
+# Shift 2024 Android Task
+
+### Android
+Build the android application: `./gradlew build`
+
 ### Desktop
 Run the desktop application: `./gradlew :desktop:run`
 
